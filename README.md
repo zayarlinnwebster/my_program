@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![Portfolio Screenshot](portfolio_screenshot.png)
+![Portfolio Screenshot](images/portfolio_screenshot.png)
 
 Welcome to My Portfolio Website! This website is designed to showcase my projects, provide information about me, and allow users to get in touch with me.
 

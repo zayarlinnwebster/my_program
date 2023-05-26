@@ -42,7 +42,7 @@ pre {
 }
 
 .terminal-input {
-    font-size: 0.7vw;
+    font-size: 0.8em;
     color: #fff;
     border: 0;
     background: transparent;
@@ -294,12 +294,16 @@ form {
     .arrow {
         font-size: 0.5em;
     }
+
+    .terminal-input {
+        font-size: 0.5em;
+    }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .terminal-window {
         height: 60vh;
-        width: 80vw;
+        width: 95vw;
     }
 
     .terminal-header {
@@ -319,6 +323,10 @@ form {
     }
 
     .arrow {
+        font-size: 0.3em;
+    }
+
+    .terminal-input {
         font-size: 0.3em;
     }
 }
